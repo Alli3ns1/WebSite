@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": "2",
+      "produto": "XBOX",
+      "descricao": "Console Xbox Series S",
+      "foto": "xbox series s.jpg",
+      "preco": 200
+    },
+    {
+      "id": "3",
+      "produto": "PCGAMER",
+      "descricao": "Pc Gamer Completo",
+      "foto": "pc gamer.jpg",
+      "preco": 300
+    },
+    {
+      "id": "5",
+      "produto": "HORIZONF TESTE",
+      "descricao": "Jogo Horizon Forbidden West",
+      "foto": "horizon forbidden.jpg",
+      "preco": 500
+    }
+  ]
+}
